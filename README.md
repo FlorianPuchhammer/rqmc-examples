@@ -1,4 +1,4 @@
-# RQMC-simulation-hub
+# rqmc-examples
 This repository contains tools and examples for the simulation of stochastic models with Monte Carlo and randomized quasi-Monte Carlo. Most of the provided packages depend on the library [Stochastic Simulation in Java (SSJ)](http://simul.iro.umontreal.ca/ssj/), get it [here](https://github.com/umontreal-simul/ssj), and have been used to simulate benchmark problems in our research papers.
 
 The packages included in this repository are 
